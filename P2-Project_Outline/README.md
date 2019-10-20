@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I have played Dungeons and Dragons for around 2 years now, and I have greatly enjoyed the game.  When I try to introduce
+others to the game, They find it difficult to start the process of creating a character.  The numbers involved with the 
+game and the plethora of classes and subclasses you can choose from often scares them away from the game
+
+What I would like to do with this project is to help break down a character into simple parts by introducing a list of 
+questions that will help someone choose a class/characters for the start of the game.  I think it would great to have a 
+search engine that would look for specific character traits in the description, and the ability to break down characters 
+based on certain criteria.
 ### Features
-Include Features here
+1. User Login
+2. Search Engine for character traits.
+3. List of questions to narrow down to certain classes.
+4. The ability to look at all characters at once.
 ### Technologies
-Include Technologies here
+Java and possibly Javascript
 ### What I'll Have to Learn
-Include what you will need to learn here
+There is quite a bit of javascript that I will need to learn when trying the project.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/BDgBoHt6/next
